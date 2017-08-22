@@ -1,0 +1,19 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="item_text">
+        <item name="android:textStyle">italic</item>
+        <item name="android:textSize">@dimen/textsixe_22</item>
+        <item name="android:textColor">@color/text_colorItem</item>
+        <item name="android:text">TODO</item>
+        <item name="android:fontFamily">sans-serif</item>
+        <item name="android:padding">16dp</item>
+    </style>
+</resources>
